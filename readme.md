@@ -9,12 +9,19 @@ User Story-
 
 As a player:
 -pick a charater
+
 -choose the difficulty
+
 -choose a background
+
 -start the game
+
 -avoid all the falling objects
+
 -a match last 1 minute long
+
 -win if survive for 1m
+
 -lose if touches the object
 
 
