@@ -8,6 +8,7 @@ my back up game plan is the a game where you get stuck in a maze and have to fin
 User Story-
 
 As a player:
+
 -pick a charater
 
 -choose the difficulty
