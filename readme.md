@@ -27,7 +27,7 @@ As a player:
 
 
 
-![Drawing sketchpad](https://user-images.githubusercontent.com/110972681/191029141-37e4a1c2-1b30-4486-b503-003a80bf0a99.jpeg)
+![Drawing sketchpad](./wire.png)
 
 
 Entity Relationship Diagrams:
