@@ -34,6 +34,7 @@ function restartGame () {
 
 
 ////////////////Game Control///////////////////
+//for organization purposes, you may want to get used to putting all your variable declarations at the top of your file
 let isGameOver = false; //it's a flag(identify to tell you when something is heppening.)
 let isGameStarted = false; // its a flag to start the game
 const numEnemies = 30; // control number of enemies being created
@@ -45,7 +46,7 @@ function setGameOver () {
     
 
 }
-
+//you have some comments in your code, but make sure you do it throughout so that other developers can easily read your code
 ////////////////////Timer//////////////////////
 let clock = document.getElementById('counter');
 let clockVar;
